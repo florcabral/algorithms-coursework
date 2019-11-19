@@ -4,7 +4,7 @@ This repository contains selected coding projects and homework solutions from my
 
 **1.**	Djkistra’s Shortest Path – Amazing Mazes:
 
-For this project, I implemented Djkistra’s Shortest Path algorithm and used the opencv image manipulation library to solve several mazes in the most efficient way. I was not allowed to use memoization to retrieve the shortest path, so my algorithm uses a priority queue that creates the nodes as it goes and later retrace the path to solve the maze.
+For this project, I implemented Djkistra’s Shortest Path algorithm and used the OpenCV computer vision library to solve several mazes in the most efficient way. I was not allowed to use memoization to retrieve the shortest path, so my algorithm uses a priority queue that creates the nodes as it goes and later retraces the path to solve the maze.
 
 **2.**	Dynamic Programming:
 
